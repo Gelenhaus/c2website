@@ -9,7 +9,7 @@
   
 
 body {
-    background-color: rgb(84, 187, 235);
+    background-color: rgb(219, 110, 110);
     text-align: center;
 }
 header {
@@ -42,7 +42,13 @@ img {
     width: 50%;
     height: 50%;
     border-radius: 15%;
+    height: fit-content;
 }
+ #project1 img{
+    width: 80%;
+    height:80%;
+ }
+
 
 
 
